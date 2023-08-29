@@ -78,7 +78,7 @@ function createRichMenuDataB() {
         action: {
           "type": "uri",
           "label": "リッチメニュー作成",
-          "uri": "https://github.com/Mx244xt/create_line_richmenu"
+          "uri": "https://github.com/Mx244xt/create_line_richmenu_change"
         }
       },
       {

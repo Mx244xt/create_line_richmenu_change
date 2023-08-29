@@ -103,7 +103,7 @@ function createRichMenuDataA() {
         action: {
           "type": "uri",
           "label": "ホームボタン",
-          "uri": "prefs:root=General&path=HOME_BUTTON"
+          "uri": "https://github.com/Mx244xt"
         }
       },
       {
